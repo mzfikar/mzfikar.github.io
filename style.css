@@ -3,16 +3,20 @@
     background-color: #d0e0fc;
 }
 
-#certificate {
-    background-color: #ffffff;
-}
-
 #education {
     background-color: #d0e0fc;
 }
 
+#experience {
+    background-color: #ffffff;
+}
+
 #project {
     background-color: #d0e0fc;
+}
+
+#certificate {
+    background-color: #ffffff;
 }
 
 #contact {
