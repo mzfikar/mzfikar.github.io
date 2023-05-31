@@ -30,3 +30,29 @@ body {
 h2 {
     font: bold;
 }
+
+.btn{
+    margin-top: 15px;
+    margin-right:9px;
+    padding: 15px 25px;
+    font-size: 17px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #f94949;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 7px #000;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+    background-color: #a5a6a7;
+}
+
+.btn:active {
+    background-color: #3efe58;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
